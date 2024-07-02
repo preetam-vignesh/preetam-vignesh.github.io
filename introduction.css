@@ -164,7 +164,7 @@ body {
         width: 40%;
         background: midnightblue;
         position: absolute;
-        top: 410px;
+        top: 420px;
         right: 0;
         z-index: 2;
     }
@@ -201,7 +201,7 @@ body {
     }
 
     .img1 {
-        padding-left: 20px;
+        padding-left: 16px;
         height: 80px;
     }
 
@@ -211,12 +211,12 @@ body {
     }
 
     .img3 {
-        padding-left: 40px;
+        padding-left: 33px;
         width: 250px;
     }
 
     .img4 {
 	width: 250px;
-        padding-left: 40px;
+        padding-left: 33px;
     }
 }
