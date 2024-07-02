@@ -148,7 +148,7 @@ body {
     .img{
         padding-top: 10px;
         padding-bottom: 200px;
-        padding-left: 280px;
+        padding-left: 110px;
         cursor: pointer;
     }
 
@@ -191,31 +191,32 @@ body {
     .content{
         width: 98%;
         position: absolute;
-        top: 39%;
+        top: 45%;
         color: #FFFFF0;
     }
 
     .img0{
-        padding-left: 36px;
-        height: 150px;
+        padding-left: 20px;
+        height: 80px;
     }
 
     .img1 {
-        padding-left: 50px;
-        height: 150px;
+        padding-left: 40px;
+        height: 80px;
     }
 
     .img2 {
         padding-left: 19%;
-        width: 400px;
+        width: 300px;
     }
 
     .img3 {
         padding-left: 54px;
-        width: 550px;
+        width: 100px;
     }
 
     .img4 {
+	    width: 150px
         padding-left: 72px;
     }
 }
