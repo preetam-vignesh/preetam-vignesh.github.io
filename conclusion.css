@@ -183,7 +183,7 @@ body {
     
     .content{
         width: 94%;
-        top: 52%;
+        top: 55%;
         text-align: left;
         color: #FFFFF0;
         color: black;
@@ -201,7 +201,7 @@ body {
 
     .pics{
         padding-left: 20px;
-        padding-top: 215px;
+        padding-top: 230px;
     }
     
     .pics h1{
@@ -212,12 +212,12 @@ body {
     .pics p{
         font-size: 15px;
         color: black;
-        padding-left: 80px;
+        padding-left: 60px;
         padding-top: 10px;
     }
     
     .pics img{
-        padding-left: 40px;
+        padding-left: 55px;
         padding-top: 10px;
         padding-bottom: 15px;
     }
