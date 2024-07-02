@@ -172,7 +172,7 @@ body {
     .content{
         width: 94%;
         position: absolute;
-        top: 38%;
+        top: 57%;
         text-align: center;
         color: #FFFFF0;
     }
@@ -189,7 +189,7 @@ body {
     }
     
     .content .img2{
-        height: 200px;
-        width: 294.1176px;
+        height: 70px;
+        width: 210px;
     }
 }
