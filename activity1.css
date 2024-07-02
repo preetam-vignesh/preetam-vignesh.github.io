@@ -214,8 +214,9 @@ th {
         color: #FFFFF0;
     }
 
-	.content h2 {
-		padding-bottom: 10px;
+.content h2 {
+	padding-bottom: 10px;
+}
 
     table {
         width: 70%;
