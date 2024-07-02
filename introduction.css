@@ -164,7 +164,7 @@ body {
         width: 30%;
         background: midnightblue;
         position: absolute;
-        top: 330px;
+        top: 410px;
         right: 0;
         z-index: 2;
     }
@@ -216,7 +216,7 @@ body {
     }
 
     .img4 {
-	    width: 80px
+	width: 250px;
         padding-left: 50px;
     }
 }
