@@ -173,7 +173,7 @@ th {
     }
 
     .navbar ul {
-        width: 20%;
+        width: 40%;
         background: midnightblue;
         position: absolute;
         top: 420px;
@@ -216,6 +216,6 @@ th {
         margin-right: auto;
     }
 th,td {
-	font-size: 10px;
+	font-size: 8px;
 }
 }
