@@ -212,4 +212,8 @@ button:hover {
         overflow: hidden;
         transition: 0.5s;
     }
+
+form {
+    max-width: 400px;
+}
 }
