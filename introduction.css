@@ -161,7 +161,7 @@ body {
     }
 
     .navbar ul {
-        width: 30%;
+        width: 40%;
         background: midnightblue;
         position: absolute;
         top: 410px;
@@ -212,11 +212,11 @@ body {
 
     .img3 {
         padding-left: 50px;
-        width: 350px;
+        width: 200px;
     }
 
     .img4 {
 	width: 250px;
-        padding-left: 50px;
+        padding-left: 40px;
     }
 }
