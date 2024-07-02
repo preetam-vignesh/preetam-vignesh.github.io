@@ -150,7 +150,7 @@ th {
 @media only screen and (max-width: 700px) {
     .banner{
         width: 100%;
-        height: 68vh;
+        height: 63vh;
         background-size: cover;
     }
 
@@ -215,16 +215,14 @@ th {
         color: #FFFFF0;
     }
 
-.content h2 {
-	margin-bottom: 80px;
-
     table {
-        width: 92%;
+        width: 93%;
         border-collapse: collapse;
         margin-top: 100px;
         margin-left: auto;
         margin-right: auto;
     }
+
 td {
     font-size: 10px;
 }
