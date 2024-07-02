@@ -215,7 +215,7 @@ th {
     }
 
     table {
-        width: 98%;
+        width: 99%;
         border-collapse: collapse;
         margin-top: 100px;
         margin-left: auto;
@@ -223,8 +223,8 @@ th {
     }
 
     td {
-        font-size: 7px;
+        font-size: 6.5px;
     }
 th {
-	font-size: 7px;
+	font-size: 6.5px;
 }
