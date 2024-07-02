@@ -175,7 +175,7 @@ tr:hover {
     }
     
     th, td {
-        border: 2px solid #dddddd;
+        border: 1px solid #dddddd;
         padding-top: 5px;
         padding-bottom: 5px;
         text-align: left;
