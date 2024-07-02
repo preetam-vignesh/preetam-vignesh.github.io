@@ -201,7 +201,7 @@ body {
 
     .pics{
         padding-left: 20px;
-        padding-top: 230px;
+        padding-top: 245px;
     }
     
     .pics h1{
@@ -212,12 +212,12 @@ body {
     .pics p{
         font-size: 15px;
         color: black;
-        padding-left: 60px;
+        padding-left: 50px;
         padding-top: 10px;
     }
     
     .pics img{
-        padding-left: 55px;
+        padding-left: 58px;
         padding-top: 10px;
         padding-bottom: 15px;
     }
