@@ -208,6 +208,9 @@ th {
         color: #FFFFF0;
     }
 
+.content h2 {
+	margin-bottom: 10px;
+
     table {
         width: 93%;
         border-collapse: collapse;
