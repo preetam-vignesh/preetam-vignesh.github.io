@@ -198,4 +198,14 @@ body {
         text-align: center;
         color: #FFFFF0;
     }
+.content h1{
+	font-size: 40px;
+}
+.marquee{
+    background: transparent;
+    padding-top: 10px;
+    color: rgba(255, 213, 0, 0.937);
+    font-weight: 200;
+    font-size: 12px;
+}
 }
