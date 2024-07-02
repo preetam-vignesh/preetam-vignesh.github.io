@@ -213,13 +213,8 @@ th {
         text-align: center;
         color: #FFFFF0;
     }
-
-.content h2 {
-	margin-bottom: 10px;
-}
-
     table {
-        width: 70%;
+        width: 90%;
         border-collapse: collapse;
         margin-top: 100px;
         margin-left: auto;
