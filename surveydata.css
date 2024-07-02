@@ -174,13 +174,13 @@ tr:hover {
     }
     
     th, td {
-        border: 2.4px solid #dddddd;
+        border: 2px solid #dddddd;
         padding-top: 8px;
         padding-bottom: 8px;
         text-align: left;
         padding-left: 2px;
         padding-right: 2px;
-	font-size: 5px
+	font-size: 3px
     }
     
     th {
