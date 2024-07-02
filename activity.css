@@ -183,7 +183,7 @@ th {
         width: 30%;
         background: midnightblue;
         position: absolute;
-        top: 330px;
+        top: 420px;
         right: 0;
         z-index: 2;
     }
@@ -210,13 +210,13 @@ th {
     .content{
         width: 94%;
         position: absolute;
-        top: 53%;
+        top: 55%;
         text-align: center;
         color: #FFFFF0;
     }
 
     table {
-        width: 90%;
+        width: 95%;
         border-collapse: collapse;
         margin-top: 100px;
         margin-left: auto;
