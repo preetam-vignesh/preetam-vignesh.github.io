@@ -151,7 +151,7 @@ body {
     .img{
         padding-top: 10px;
         padding-bottom: 200px;
-        padding-left: 100px;
+        padding-left: 110px;
         cursor: pointer;
     }
 
@@ -194,7 +194,7 @@ body {
     .content{
         width: 94%;
         position: absolute;
-        top: 55%;
+        top: 70%;
         text-align: center;
         color: #FFFFF0;
     }
