@@ -179,10 +179,10 @@ th {
     }
 
     .navbar ul {
-        width: 30%;
+        width: 40%;
         background: midnightblue;
         position: absolute;
-        top: 330px;
+        top: 420px;
         right: 0;
         z-index: 2;
     }
@@ -209,7 +209,7 @@ th {
     .content{
         width: 94%;
         position: absolute;
-        top: 37%;
+        top: 55%;
         text-align: center;
         color: #FFFFF0;
     }
@@ -221,4 +221,12 @@ th {
         margin-left: auto;
         margin-right: auto;
     }
+
+td {
+    font-size: 10px;
+}
+
+th {
+    font-size: 10px;
+}
 }
