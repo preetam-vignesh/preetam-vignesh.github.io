@@ -207,7 +207,7 @@ th {
     }
     
     .content{
-        width: 94%;
+        width: 96%;
         position: absolute;
         top: 57%;
         text-align: center;
@@ -215,7 +215,7 @@ th {
     }
 
     table {
-        width: 99%;
+        width: 99.5%;
         border-collapse: collapse;
         margin-top: 100px;
         margin-left: auto;
@@ -223,8 +223,8 @@ th {
     }
 
     td {
-        font-size: 5.5px;
+        font-size: 5px;
     }
 th {
-	font-size: 5.5px;
+	font-size: 5px;
 }
