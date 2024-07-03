@@ -195,6 +195,13 @@ body {
         color: #FFFFF0;
     }
 
+.content p{
+    margin: 20px auto;
+    font-size: 20px;
+    line-height: 35px;
+	padding-right: 7px;
+}
+
     .img0{
         padding-left: 10px;
         height: 80px;
