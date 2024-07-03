@@ -198,9 +198,17 @@ body {
         text-align: left;
         color: #FFFFF0;
     }
+.content p{
+    margin: 10px auto;
+    font-size: 14px;
+    line-height: 30px;
+    padding-left: 15px;
+    padding-top: 18px;
+}
+
 
     .members{
-        padding-top: 250px;
+        padding-top: 280px;
         font-size: 15px;
         color: whitesmoke;
         padding-left: 40px;
@@ -208,7 +216,7 @@ body {
     
     .done{
         padding-top: 40px;
-        padding-left: 73%;
+        padding-left: 68%;
         color: orange;
         font-size: 14px;
         padding-bottom: 40px;
