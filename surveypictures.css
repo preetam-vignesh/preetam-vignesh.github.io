@@ -129,7 +129,7 @@ body {
     .img{
         padding-top: 10px;
         padding-bottom: 200px;
-        padding-left: 280px;
+        padding-left: 110px;
         cursor: pointer;
     }
 
@@ -142,10 +142,10 @@ body {
     }
 
     .navbar ul {
-        width: 30%;
+        width: 40%;
         background: midnightblue;
         position: absolute;
-        top: 330px;
+        top: 420px;
         right: 0;
         z-index: 2;
     }
