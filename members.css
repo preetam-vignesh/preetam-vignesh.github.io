@@ -206,14 +206,14 @@ body {
     padding-top: 18px;
 }
 .content p span{
-    font-size: 22px;
+    font-size: 18px;
 }
 
     .members{
-        padding-top: 256px;
-        font-size: 14px;
+        padding-top: 252px;
+        font-size: 13.3px;
         color: whitesmoke;
-        padding-left: 20px;
+        padding-left: 15px;
     }
     
     .done{
