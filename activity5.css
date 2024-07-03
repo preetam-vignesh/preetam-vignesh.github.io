@@ -224,7 +224,7 @@ th {
 
     td,th {
         font-size: 5.5px;
-	padding-left: 12px;
-	padding-right:12px;
+	padding-top: 8px;
+	padding-bottom:8px;
     }
 }
