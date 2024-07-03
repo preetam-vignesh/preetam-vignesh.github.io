@@ -207,9 +207,9 @@ th {
     }
     
     .content{
-        width: 98%;
+        width: 99%;
         position: absolute;
-        top: 57%;
+        top: 58%;
         text-align: center;
         color: #FFFFF0;
     }
@@ -224,7 +224,7 @@ th {
 
     td,th {
         font-size: 5.5px;
-	padding-top: 8px;
-	padding-bottom:8px;
+	padding-top: 7px;
+	padding-bottom:7px;
     }
 }
