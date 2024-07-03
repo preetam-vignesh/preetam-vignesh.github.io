@@ -223,7 +223,8 @@ th {
     }
 
     td,th {
-        font-size: 5px;
-	padding-left: 9px;
+        font-size: 5.5px;
+	padding-left: 8px;
+	padding-right:8px;
     }
 }
