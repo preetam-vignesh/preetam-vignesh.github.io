@@ -142,7 +142,7 @@ button {
     border-radius: 4px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    margin-left: 250px;
+    margin-left: 220px;
 }
 
 button:hover {
@@ -213,7 +213,10 @@ button:hover {
         transition: 0.5s;
     }
 
-form {
+	form {
     max-width: 400px;
+	}
+	button {
+    margin-left: 100px;
 }
 }
