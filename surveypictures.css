@@ -172,13 +172,13 @@ body {
     .content{
         width: 94%;
         position: absolute;
-        top: 57%;
+        top: 58%;
         text-align: center;
         color: #FFFFF0;
     }
 
     .content .img1{
-        padding-left: 50px;
+        padding-left: 30px;
         padding-top: 28px;
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -189,7 +189,7 @@ body {
     }
     
     .content .img2{
-        height: 70px;
-        width: 210px;
+        height: 60px;
+        width: 110px;
     }
 }
