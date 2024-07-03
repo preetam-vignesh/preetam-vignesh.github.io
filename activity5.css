@@ -222,9 +222,8 @@ th {
         margin-right: auto;
     }
 
-    td {
+    td,th {
         font-size: 5px;
+	padding-left: 9px;
     }
-th {
-	font-size: 5px;
 }
