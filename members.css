@@ -210,15 +210,15 @@ body {
 }
 
     .members{
-        padding-top: 267px;
-        font-size: 15px;
+        padding-top: 256px;
+        font-size: 14px;
         color: whitesmoke;
-        padding-left: 25px;
+        padding-left: 20px;
     }
     
     .done{
         padding-top: 40px;
-        padding-left: 57%;
+        padding-left: 56%;
         color: orange;
         font-size: 14px;
         padding-bottom: 40px;
